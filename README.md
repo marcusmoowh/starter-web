@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work. I am from Singapore.
 Adding a line for rebasing example.
+Updating for emergency fix after stash
 
 ## Purpose
 
