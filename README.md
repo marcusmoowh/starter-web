@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work. My number is 91919161 - Marcus Moo.
 
 ## Purpose
 
