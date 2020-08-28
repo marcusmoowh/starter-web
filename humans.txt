@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Marcus Moo	marcusmoowh@gmail.com	Linkedin:marcusmoowh
 
 # THANKS
 
